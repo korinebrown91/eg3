@@ -7,6 +7,40 @@ This repository will actually serve as an aid to help you get started with your 
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
+## distance senser
+
+### Description & Code
+i was suppos to put ,y pic here but i forgot to so here is a photo!!
+
+
+Here's how you make code look like code:
+
+```python
+Code goes here
+
+```
+
+
+### Evidence
+![image_67165953](https://github.com/korinebrown91/eg3/assets/75768362/ff8ea106-144a-4b68-a16c-5d7ede2d3cbc)
+
+
+
+
+
+And here is how you should give image credit to someone if you use their work:
+
+Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+
+
+
+### Wiring
+Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
+Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+
+### Reflection
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on the knowledge that will make this assignment better or easier for the next person.
+
 
 ## Hello_CircuitPython
 
