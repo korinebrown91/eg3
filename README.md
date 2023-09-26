@@ -76,8 +76,9 @@ Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlyb
 Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
-### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on the knowledge that will make this assignment better or easier for the next person.
+### Reflection 
+what went wrong was the wiring it kinda got me off graud a liittle with all wirse. Overall ever thng was good and i got the moter to move i learn that i dont have to put 5v and grd when im using my better pack. i reallylike this one because the code wont long and the wiring was hard but i got on to it quick.
+
 
 
 ## Hello_CircuitPython
@@ -109,7 +110,9 @@ Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlyb
 Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
-### Reflection
+### Reflection 
++t
+
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on the knowledge that will make this assignment better or easier for the next person.
 
 
@@ -193,6 +196,7 @@ Pictures / Gifs of your work should go here.  You need to communicate what your 
 ### Wiring
 
 ### Reflection 
+
 
 
 
