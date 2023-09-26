@@ -172,15 +172,28 @@ while True:
 ```python
 Code goes here
 
+import board
+import analogio
+
+motor=analogio.AnalogOut(board.A0)
+pot=analogio.AnalogIn(board.A1)
+while True:
+    speed=pot.value
+    motor.value=speed
 ```
 
 ### Evidence
 
 Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
+![image_67162881 (1)](https://github.com/korinebrown91/eg3/assets/75768362/1f77eab0-c1fb-4ae6-839c-f36c125a0b43)
+
+
+
 ### Wiring
 
-### Reflection
+### Reflection 
+
 
 
 
