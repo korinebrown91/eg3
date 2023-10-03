@@ -254,8 +254,7 @@ git config --global user.email YOURSCHOOLEMAIL
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+to get back in to onshape wit harder thinngs ande ready for the onshape thing.
 ### Evidence
 
 Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
