@@ -266,7 +266,7 @@ Take several cropped screenshots of your Onshape document from different angles.
 ![1 pic](https://github.com/korinebrown91/eg3/assets/75768362/1f37bbf9-41fa-4ba5-b7e7-c4f96cedc32b)
 
 ### Reflection
-
+i got the mass wrong so many times but everything went well im a onshape person so everthing was really easy but when i seen all the numbers i we really confused. 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 &nbsp
