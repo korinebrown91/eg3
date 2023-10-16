@@ -270,4 +270,25 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp
 
+## Onshape_Assignment_Template
+![unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
+### Assignment Description
+![![unnamed (2)](https://github.com/korinebrown91/eg3/assets/75768362/f83680bd-2d17-4c56-8d5e-40f37f3226ed)
+unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
+![unnamed (3)](https://github.com/korinebrown91/eg3/assets/75768362/e58c9966-756d-42ae-bd10-eac42ab2c28b)
 
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+to really get the feel of on-shape before we go into the group work and getting the hang of things 
+### Evidence
+
+Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+
+### Part Link 
+
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+
+### Reflection
+i feel like it was but the dementiones on the Swing Arm. it wwas really challaging but some how i got it done but 
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
