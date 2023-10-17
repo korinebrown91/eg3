@@ -284,11 +284,10 @@ to really get the feel of on-shape before we go into the group work and getting 
 Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
 
 ### Part Link 
+https://cvilleschools.onshape.com/documents/8cc39fbb34d4ec0431a872fc/w/9659abd0cc99caa3b991344d/e/fdabb8f0d506ea5c67e69fab?renderMode=0&uiState=652edb3b7160a27eab2d5206
 
 [Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
 
 ### Reflection
-i feel like it was but the dementiones on the Swing Arm. it wwas really challaging but some how i got it done but 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
+i feel like it was good but the dementiones on the Swing Arm,it wwas really challaging but some how i got it done but it's not all the way perfect but it is 90%. there where so many things that went wrong on this assingmeant but the numbers was a bit much because it was hard to get it right but ik if i do it agian i would put the middle part in first. 
 &nbsp;
