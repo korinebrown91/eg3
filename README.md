@@ -253,6 +253,7 @@ git config --global user.email YOURSCHOOLEMAIL
 4. \## Onshape_Assignment_Template
 
 ### Assignment Description
+this is the swing arm it really dont do nothing but ig it's cool 
 
 to get back in to onshape wit harder thinngs ande ready for the onshape thing.
 ### Evidence
@@ -269,8 +270,7 @@ i got the mass wrong so many times but everything went well im a onshape person 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 &nbsp
-
-## Onshape_Assignment_Template
+Swing arm 
 ![unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
 ![![unnamed (2)](https://github.com/korinebrown91/eg3/assets/75768362/f83680bd-2d17-4c56-8d5e-40f37f3226ed)
 unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
