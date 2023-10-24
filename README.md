@@ -202,7 +202,7 @@ Pictures / Gifs of your work should go here.  You need to communicate what your 
 
 
 
-## NextAssignment
+## The hanger 
 
 ### Description & Code
 
@@ -228,17 +228,19 @@ this is the swing arm it really dont do nothing but ig it's cool
 
 to get back in to onshape wit harder thinngs ande ready for the onshape thing.
 ### Evidence
+![1 pic](https://github.com/korinebrown91/eg3/assets/75768362/1f37bbf9-41fa-4ba5-b7e7-c4f96cedc32b)
+![unnamed (1)](https![unnamed (4)](https://github.com/korinebrown91/eg3/assets/75768362/e5cc9700-8c29-455e-8183-ff35791706d2)
+://github.com/korinebrown91/eg3/assets/75768362/1bb20560-03c6-4e72-956c-0cc90c588265)
+
 
 Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
 
 ### Part Link 
-
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
-![1 pic](https://github.com/korinebrown91/eg3/assets/75768362/1f37bbf9-41fa-4ba5-b7e7-c4f96cedc32b)
+https://cvilleschools.onshape.com/documents/89d1a39801ea9e2a9c163e87/w/7655c9dc461e65180c62143c/e/91c761b8fbac0f802e60a849?renderMode=0&uiState=65381c14a787290418744324
 
 ### Reflection
 i got the mass wrong so many times but everything went well im a onshape person so everthing was really easy but when i seen all the numbers i we really confused. 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
 
 &nbsp
 Swing arm 
