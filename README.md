@@ -111,7 +111,7 @@ Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection 
-+t
+this was a really good one for me even though i dont like wiring but went was hard for me putting the wiring in the right places on the bead bored. it took for ever for me to get it done but i feel like it got better when i was some what done and had to do the code part. i lerned that i can use new this 
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on the knowledge that will make this assignment better or easier for the next person.
 
@@ -121,7 +121,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ## How To Fix the LCD power issue with Metro M4 boards.
 
 ### Description & Code
-
+this is a motor control and the peice the tap is on moves it its really cool 
 * **The symptoms:**  LCD acting weird OR trouble with usb connection / serial monitor / uploading / etc.
 * **The problem :** The LCDs occasionally draw too much power when we turn on the boards, and that makes parts of its serial communications crash.
 * **The Solution:** Add this code, and wire a switch up, like the wiring diagram below:
@@ -168,8 +168,7 @@ while True:
 
 
 
-## CircuitPython_LCD
-
+## Motor Control 
 ### Description & Code
 
 ```python
