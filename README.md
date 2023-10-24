@@ -1,4 +1,4 @@
-# CircuitPython
+0# CircuitPython
 This repository will actually serve as an aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
@@ -276,6 +276,7 @@ unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480
 ![unnamed (3)](https://github.com/korinebrown91/eg3/assets/75768362/e58c9966-756d-42ae-bd10-eac42ab2c28b)
 
 ### Assignment Description
+This is my swing arm and it is a really pretty blue. this took to long for it to get done if i followed the derections the it would have been so much better but that's fine. 
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 to really get the feel of on-shape before we go into the group work and getting the hang of things 
