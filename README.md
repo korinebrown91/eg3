@@ -272,10 +272,11 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 ## Onshape_Assignment_Template
 ![unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
-### Assignment Description
 ![![unnamed (2)](https://github.com/korinebrown91/eg3/assets/75768362/f83680bd-2d17-4c56-8d5e-40f37f3226ed)
 unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
 ![unnamed (3)](https://github.com/korinebrown91/eg3/assets/75768362/e58c9966-756d-42ae-bd10-eac42ab2c28b)
+
+### Assignment Description
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 to really get the feel of on-shape before we go into the group work and getting the hang of things 
