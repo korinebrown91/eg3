@@ -72,11 +72,11 @@ Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlyb
 
 
 
-### Wiring
-Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+### Wiring 
 
-### Reflection 
+### Reflection
+![unnamed (6)](https://github.com/korinebrown91/eg3/assets/75768362/9d224bf0-1470-4868-bf2b-a223292e9caf)
+ 
 what went wrong was the wiring it kinda got me off graud a liittle with all wirse. Overall ever thng was good and i got the moter to move i learn that i dont have to put 5v and grd when im using my better pack. i reallylike this one because the code wont long and the wiring was hard but i got on to it quick.
 
 
@@ -84,13 +84,39 @@ what went wrong was the wiring it kinda got me off graud a liittle with all wirs
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
-
-Here's how you make code look like code:
+this is a circuitpythan and it changes the distintce of the numbers using movment 
 
 ```python
 Code goes here
+```python
+import board
+import time
+import digitalio
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
 
+# turn on lcd power switch pin
+lcdPower = digitalio.DigitalInOut(board.D8)
+lcdPower.direction = digitalio.Direction.INPUT
+lcdPower.pull = digitalio.Pull.DOWN
+
+# Keep the I2C protocol from running until the LCD has been turned on
+# You need to flip the switch on the breadboard to do this.
+while lcdPower.value is False:
+    print("still sleeping")
+    time.sleep(0.1)
+
+# Time to start up the LCD!
+time.sleep(1)
+print(lcdPower.value)
+print("running")
+
+i2c = board.I2C()
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
+
+
+# Loop forever.
+while True:
 ```
 
 
@@ -128,37 +154,6 @@ this is a motor control and the peice the tap is on moves it its really cool
 
 
 
-```python
-import board
-import time
-import digitalio
-from lcd.lcd import LCD
-from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
-
-# turn on lcd power switch pin
-lcdPower = digitalio.DigitalInOut(board.D8)
-lcdPower.direction = digitalio.Direction.INPUT
-lcdPower.pull = digitalio.Pull.DOWN
-
-# Keep the I2C protocol from running until the LCD has been turned on
-# You need to flip the switch on the breadboard to do this.
-while lcdPower.value is False:
-    print("still sleeping")
-    time.sleep(0.1)
-
-# Time to start up the LCD!
-time.sleep(1)
-print(lcdPower.value)
-print("running")
-
-i2c = board.I2C()
-lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
-
-
-# Loop forever.
-while True:
-
-```
 ### Wiring
 
 ![WiringSolution](images/I2C_M4_Solution.png)
