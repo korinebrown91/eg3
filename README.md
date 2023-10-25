@@ -157,6 +157,7 @@ this is a motor control and the peice the tap is on moves it its really cool
 ### Wiring
 
 ![WiringSolution](images/I2C_M4_Solution.png)
+![unnamed (5)](https://github.com/korinebrown91/eg3/assets/75768362/d0b02c6c-12f6-4a21-b220-f3f8f056843b)
 
 
 
