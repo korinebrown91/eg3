@@ -245,8 +245,12 @@ Swing arm
 unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
 
 ![unnamed (3)](https://github.com/korinebrown91/eg3/assets/75768362/e58c9966-756d-42ae-bd10-eac42ab2c28b)
+![image_67127553](https://github.com/korinebrown91/eg3/assets/75768362/cd6aa03b-845d-49bd-8f27-9f95ed74666c)
 
-### Assignment Description
+### Assignment Description![image_67146753](https://github.com/korinebrown91/eg3/assets/75768362/ced7a59d-32e0-4870-a082-d072bde9396d)
+
+![image_67127553](https://github.com/korinebrown91/eg3/assets/75768362/cd6aa03b-845d-49bd-8f27-9f95ed74666c)
+
 This is my swing arm and it is a really pretty blue. this took to long for it to get done if i followed the derections the it would have been so much better but that's fine. 
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
