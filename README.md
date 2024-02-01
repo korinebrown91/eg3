@@ -268,6 +268,3 @@ https://cvilleschools.onshape.com/documents/8cc39fbb34d4ec0431a872fc/w/9659abd0c
 i feel like it was good but the dementiones on the Swing Arm,it wwas really challaging but some how i got it done but it's not all the way perfect but it is 90%. there where so many things that went wrong on this assingmeant but the numbers was a bit much because it was hard to get it right but ik if i do it agian i would put the middle part in first. 
 &nbsp;
 
-![image_67146753](https://github.com/korinebrown91/eg3/assets/75768362/ced7a59d-32e0-4870-a082-d072bde9396d)
-
-![image_67127553](https://github.com/korinebrown91/eg3/assets/75768362/cd6aa03b-845d-49bd-8f27-9f95ed74666c)
