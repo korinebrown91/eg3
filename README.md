@@ -244,9 +244,9 @@ Swing arm
 ![![unnamed (2)](https://github.com/korinebrown91/eg3/assets/75768362/f83680bd-2d17-4c56-8d5e-40f37f3226ed)
 unnamed](https://github.com/korinebrown91/eg3/assets/75768362/25cc9e87-e2dd-4480-9a2f-3398aa8c1aa5)
 
+# Multi-Part Design Studios 
 
-
-### Assignment Description
+ Assignment Description
 ![image_67146753](https://github.com/korinebrown91/eg3/assets/75768362/ced7a59d-32e0-4870-a082-d072bde9396d)
 ![image_67127553](https://github.com/korinebrown91/eg3/assets/75768362/cd6aa03b-845d-49bd-8f27-9f95ed74666c)
 
@@ -265,6 +265,5 @@ https://cvilleschools.onshape.com/documents/8cc39fbb34d4ec0431a872fc/w/9659abd0c
 [Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
 
 ### Reflection
-i feel like it was good but the dementiones on the Swing Arm,it wwas really challaging but some how i got it done but it's not all the way perfect but it is 90%. there where so many things that went wrong on this assingmeant but the numbers was a bit much because it was hard to get it right but ik if i do it agian i would put the middle part in first. 
-&nbsp;
+i feel like this a good project if your just bored and need something to do i enjoyed it but realy dint enjoy it but i do think the hardets part was the top whole of the cylce was the worst for me because i didnt really get the right demations for it but i got somewhat close. 
 
