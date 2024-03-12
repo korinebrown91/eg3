@@ -273,3 +273,29 @@ https://cvilleschools.onshape.com/documents/8cc39fbb34d4ec0431a872fc/w/9659abd0c
 ### Reflection
 i feel like this a good project if your just bored and need something to do i enjoyed it but realy dint enjoy it but i do think the hardets part was the top whole of the cylce was the worst for me because i didnt really get the right demations for it but i got somewhat close. 
 
+
+
+## Onshape_Assignment_Template
+![Capture 1](https://github.com/korinebrown91/eg3/assets/75768362/e2f1d549-8c54-456f-8c96-08ac3bcfeb8d)
+![Capture 2](https://github.com/korinebrown91/eg3/assets/75768362/22b75773-7885-4936-ba74-df66af286b5b)
+
+### Assignment Description
+this is my Robot Gripper idk what it does but 0
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence
+
+Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+
+### Part Link 
+
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
+
+ 
