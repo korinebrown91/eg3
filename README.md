@@ -299,3 +299,66 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 &nbsp;
 
  
+## CODE_Assignment_Template
+
+### Assignment Description
+This is my IR Sensors, It's really cool.
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Description & Code
+import board 
+import neopixel
+import digitalio
+
+# Set up the IR Sensor using digital pin2.
+ir_sensor = digitalio.DigitalInOut(board.D2)
+
+# Set the photointerupter as an input.
+ir_sensor.direction = digitalio.Direction.INPUT
+
+# use the internal pull-up resistor.
+ir_sensor.pull = digitalio.Pull.UP
+
+#while loop runs the inside continuously.
+
+whilr True:
+
+   # if an object is near the IR sensor (sensor is LOW):
+       #Print something to ther Serial Monitor.
+ 
+
+ #if nothing is near the IR sensor (sensor is HIGH):
+   #Print something to the Serial Monitor. 
+
+   #Intialize the on-board neopixel and set the brightness.
+led = neopixel.NeoPixel(board.NEOPIXEL, 1 )
+Led.brightness = 0.3
+
+   #While loop runs the code inside continuously.
+    
+while True: 
+ # if an object is near the IR sensor (sensor is LOW): 
+ #print something to the Serial Monitor.
+
+ #if nothing is near the IR sensor(sensor is HIGH):
+ #Print something to the Serial Monitor. 
+ # Intialize the on-board neopixel and set the brightness.
+ led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+ led.brightness = 0.3
+ #While loop runs the code inside continuously.
+ while True: 
+   #If an object is near the IR sensor (sensor is LOW):
+       #Set the NeoPixel's color tp RED.
+
+#If nothing is near the IR sensor (sensor is HIGH):
+  #Set the NeoPixel's color to GREEN.  #wont let me link
+
+
+Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+
+### Part Link 
+![image_50441985](https://github.com/korinebrown91/eg3/assets/75768362/94b718f7-a64b-4a93-9e1b-5a06cec83e7f)
+
+
+### Reflection
+won't really hard just had to rush and do it. i like this coding because it wont really hard and we did something like this last year. the hardest  part was putting the wiring in the right spots other then that it was cool.
