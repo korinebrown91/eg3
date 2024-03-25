@@ -274,7 +274,7 @@ https://cvilleschools.onshape.com/documents/8cc39fbb34d4ec0431a872fc/w/9659abd0c
 i feel like this a good project if your just bored and need something to do i enjoyed it but realy dint enjoy it but i do think the hardets part was the top whole of the cylce was the worst for me because i didnt really get the right demations for it but i got somewhat close. 
 
 
-
+# Robot Gripper 
 ## Onshape_Assignment_Template
 ![Capture 1](https://github.com/korinebrown91/eg3/assets/75768362/e2f1d549-8c54-456f-8c96-08ac3bcfeb8d)
 ![Capture 2](https://github.com/korinebrown91/eg3/assets/75768362/22b75773-7885-4936-ba74-df66af286b5b)
