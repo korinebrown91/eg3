@@ -298,7 +298,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
- #IR Sensors
+ # IR Sensors
 ## CODE_Assignment_Template
 
 ### Assignment Description
