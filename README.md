@@ -310,20 +310,20 @@ import board
 import neopixel
 import digitalio
 
-# Set up the IR Sensor using digital pin2.
+ Set up the IR Sensor using digital pin2.
 ir_sensor = digitalio.DigitalInOut(board.D2)
 
-# Set the photointerupter as an input.
+ Set the photointerupter as an input.
 ir_sensor.direction = digitalio.Direction.INPUT
 
-# use the internal pull-up resistor.
+ use the internal pull-up resistor.
 ir_sensor.pull = digitalio.Pull.UP
 
 #while loop runs the inside continuously.
 
 whilr True:
 
-   # if an object is near the IR sensor (sensor is LOW):
+    if an object is near the IR sensor (sensor is LOW):
        #Print something to ther Serial Monitor.
  
 
@@ -337,20 +337,20 @@ Led.brightness = 0.3
    #While loop runs the code inside continuously.
     
 while True: 
- # if an object is near the IR sensor (sensor is LOW): 
+  if an object is near the IR sensor (sensor is LOW): 
  #print something to the Serial Monitor.
 
- #if nothing is near the IR sensor(sensor is HIGH):
+#if nothing is near the IR sensor(sensor is HIGH):
  #Print something to the Serial Monitor. 
- # Intialize the on-board neopixel and set the brightness.
+  Intialize the on-board neopixel and set the brightness.
  led = neopixel.NeoPixel(board.NEOPIXEL, 1)
  led.brightness = 0.3
  #While loop runs the code inside continuously.
  while True: 
-   #If an object is near the IR sensor (sensor is LOW):
+   If an object is near the IR sensor (sensor is LOW):
        #Set the NeoPixel's color tp RED.
 
-#If nothing is near the IR sensor (sensor is HIGH):
+If nothing is near the IR sensor (sensor is HIGH):
   #Set the NeoPixel's color to GREEN.  #wont let me link
 
 
