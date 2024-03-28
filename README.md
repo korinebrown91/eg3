@@ -431,3 +431,22 @@ while True:
      led[0] = (0, 255, 0)
 ### Reflection
 this was Rotary Encader & LCD it measure the rotational position of a load in relation to a shaft or point. it gives feedback on what i put in to code and types it out. 
+
+## Photointerrupters
+import time
+import board, digitalio
+newt = 0
+interrupter = digitalio.DigitalInOut(board.D7)
+interrupter.pull = digitalio.Pull.UP
+counter = 0
+interrupt = False
+while True:
+    if interrupter.value == 1:      
+            counter = counter + 1       #count up by one if counter value = 1
+            time.sleep(0.2)
+    if time.monotonic() - newt >=1:
+        newt = time.monotonic()
+        print ("the number of interrupts is " + str(counter))
+
+### Reflection
+
