@@ -355,10 +355,26 @@ If nothing is near the IR sensor (sensor is HIGH):
 
 
 Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+### Reflection
+won't really hard just had to rush and do it. i like this coding because it wont really hard and we did something like this last year. the hardest  part was putting the wiring in the right spots other then that it was cool.
 
 ### Part Link 
 ![image_50441985](https://github.com/korinebrown91/eg3/assets/75768362/94b718f7-a64b-4a93-9e1b-5a06cec83e7f)
 
+ 
+ ## Single_Part_Practice
+
+ ## Onshape_Assignment_Template
+![Capture](https://github.com/korinebrown91/eg3/assets/75768362/d9c19a28-5b89-4562-ad08-f033ef6ee87e)
+![Capture 1](https://github.com/korinebrown91/eg3/assets/75768362/3bbfbabb-50d6-4265-9e41-7cbc34fdcdd2)
+
+### Assignment Description\
+this is my Single Part it' s cool or some what. 
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/3575361cce938bc95689bff1/w/e6817502bd644b70ef635892/e/4e5eec3bf8b2678ec48f9aa6?renderMode=0&uiState=6605c7827b7d3d0f0092d20b
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
 
 ### Reflection
-won't really hard just had to rush and do it. i like this coding because it wont really hard and we did something like this last year. the hardest  part was putting the wiring in the right spots other then that it was cool.
+This assignment was based on seeing if i was able to pass my test and help me with that. i came out really well but was a little boring the parts that i did get was the upper sides was kinda hard because my side wont the same. i realized i had to make all sides equal and had to pull the top out more.
