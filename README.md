@@ -378,3 +378,56 @@ https://cvilleschools.onshape.com/documents/3575361cce938bc95689bff1/w/e6817502b
 ### Reflection
 won't really hard just had to rush and do it. i like this coding because it wont really hard and we did something like this last year. the hardest part was putting the wiring in the right spots other then that it was cool.
 
+## Rotary Encader & LCD
+![image_50755073](https://github.com/korinebrown91/eg3/assets/75768362/83e81d7d-fab3-411e-bed8-77f4f5a94744)
+### Description & Code 
+This is my Rotary Encader & LCD its really cool look at my work and it tells you what it do. 
+### Wiring 
+import rotaryio
+import time
+import board
+import neopixel
+import digitalio
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+enc = rotaryio.IncrementalEncoder(board.D4, board.D3, divisor=2)
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+led.brightness = 0.3
+led[0] = (255, 0, 0)
+lcd = LCD(I2CPCF8574Interface(board.I2C(), 0x27), num_rows=2, num_cols=16)
+button = digitalio.DigitalInOut(board.D2)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP
+button_state = None
+menu = ["stop", "caution", "go"]
+last_index = None
+menu_index = 0
+
+while True:
+    if not button.value and button_state is None:
+        button_state = "pressed"
+    if button.value and button_state == "pressed":
+        print("Button is pressed")
+        button_state = None
+    menu_index = enc.position
+    #if last_index == None or menu_index != last_index:
+        #print(menu_index)
+    menu_index_lcd = menu_index % 3
+    #print(menu_index_lcd)
+    menu[menu_index_lcd]
+    print(menu[menu_index_lcd])
+    time.sleep(0.2)
+    lcd.set_cursor_pos(0,0)
+    lcd.print("Push For: ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print("          ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print(menu[menu_index_lcd])
+    if menu_index_lcd == 0:
+     led[0] = (255, 0, 0)
+    if menu_index_lcd == 1:
+     led[0] = (255, 255, 0)
+    if menu_index_lcd == 2:
+     led[0] = (0, 255, 0)
+### Reflection
+this was Rotary Encader & LCD it measure the rotational position of a load in relation to a shaft or point. it gives feedback on what i put in to code and types it out. 
